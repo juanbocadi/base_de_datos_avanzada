@@ -23,6 +23,3 @@
 | La Estrella | 2 | 5000 |
 | El Establo | 6 | 600 |
 | Nuevo Predio UAI | 1 | 1500 |
-| Nuevo Predio UAI | 1 | 1500 |
-| Nuevo Predio UAI | 1 | 1500 |
-| Nuevo Predio UAI | 1 | 1500 |
