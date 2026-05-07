@@ -1,3 +1,5 @@
+Create DATABASE eventos_Bocadi;
+GO
 USE eventos_Bocadi;
 GO
 
