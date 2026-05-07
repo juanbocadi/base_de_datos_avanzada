@@ -10,7 +10,7 @@
 ### 05. Vista Ferias entre 01/01/2024 y la actualidad
 | nombre_feria | rubro | fecha_apertura | fecha_cierre |
 | ------------ | ----- | -------------- | ------------ |
->### La consulta no devolvió filas ya que los datos de prueba del anexo corresponden a los años 2004 a 2009[cite: 10, 11, 12].
+>### La consulta no devolvió filas ya que los datos de prueba del anexo corresponden a los años 2004 a 2009.
 
 ### 06. Vista de Predios con inserciones recientes
 | nombre_predio | id_ciudad | superficie |
